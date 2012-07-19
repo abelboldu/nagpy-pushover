@@ -1,0 +1,13 @@
+Changes in 0.2.1:
+    o Minor bugfix to enable kibot notifications
+Changes in 0.2.0:
+    o Added Kibot notifications
+Changes in 0.1.1:
+    o Email Notification Touch Ups
+        * format for hand held devices such as Treo's
+Changes in 0.1.0:
+    o Initial Release
+        * handling for db integration
+        * urlgrabber plugin framework
+        * email notification customization
+        * infrustructure for building plugins and notifications
